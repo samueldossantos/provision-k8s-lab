@@ -1,0 +1,2 @@
+nodeRegistration:
+  criSocket: /run/containerd/containerd.sock
